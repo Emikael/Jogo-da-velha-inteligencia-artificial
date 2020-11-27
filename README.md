@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Emikael/Jogo-da-velha-inteligencia-artificial)
+
 # Jogo da Velha com Inteligencia Artificial
 
 Este é um jogo da velha baseado no algoritmo da [Jogada Perfeita](https://pt.wikipedia.org/wiki/Jogo_da_velha).
